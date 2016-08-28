@@ -6,6 +6,7 @@ tested CKEditor version : 4.5.10
 
 How to install. 
 1. download the Cy-GistInsert.zip and then unlock the download zip file using windows explorer. 
+ - how to unlock the zip file -> http://www.advsofteng.com/unblock_zip.html
 2. unzip the Cy-GistInsert.zip file. 
 3. upload all the "Cy-GistInsert" folder into web server's "ckeditor/plugins/"
 4. add the  config.extraPlugins = 'Cy-GistInsert';  in ckeditors/config.js file. 
